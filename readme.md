@@ -1,5 +1,6 @@
-using Node and React
-once running the build script on finished project, move the build folder to the github pages (not created yet)
+using Node and React.
+
+when publishing to public, run the build script, and move the build folder to the public github pages (not created yet) connected to domain.
 
 main things for site: social links, ca, chart (can use embedded chart from jupiter or raydium)
 
